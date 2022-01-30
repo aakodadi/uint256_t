@@ -1,1 +1,6 @@
 *.o
+*~
+
+# http://www.gnu.org/software/automake
+.deps/
+.dirstamp
